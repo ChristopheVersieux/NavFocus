@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DrawerFocus.iml" filepath="$PROJECT_DIR$/DrawerFocus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NavFocus.iml" filepath="$PROJECT_DIR$/NavFocus.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
